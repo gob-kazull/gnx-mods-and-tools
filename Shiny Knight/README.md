@@ -1,3 +1,6 @@
+v1.1: Fix Mon Birth types to match basic Knight
+
+
 Gobs,
 
 Here is a GNX mod adding a new class "Shiny Knight" using the base sprite and hair structure (i.e., she comes in nine flavors: 3 skin x 3 hair).

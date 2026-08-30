@@ -1,3 +1,9 @@
+#Updates
+
+v1.1: Fix sprites for Milk, Milk 2, Bind 1, and Behind.
+      Also removed from the Trader.  Spawn rates doubled to compensate.
+
+#Intro
 Gobs,
 
 Here is a GNX mod adding a new class "Shiny Cleric" using the base sprite structure (i.e., she comes in three flavors).

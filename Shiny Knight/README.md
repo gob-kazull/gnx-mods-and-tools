@@ -1,5 +1,6 @@
 v1.1: Fix Mon Birth types to match basic Knight
-
+v1.2: Removed extra unused strips (optimize sprites)
+v1.3: Add Atlas sprites, update version compatibilities
 
 Gobs,
 

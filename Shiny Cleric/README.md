@@ -2,6 +2,8 @@
 
 v1.1: Fix sprites for Milk, Milk 2, Bind 1, and Behind.
       Also removed from the Trader.  Spawn rates doubled to compensate.
+v1.2: Removed extra unused strips (optimize sprites)
+v1.3: Add Atlas sprites, update version compatibilities
 
 #Intro
 Gobs,

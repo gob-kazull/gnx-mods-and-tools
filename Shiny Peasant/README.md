@@ -1,3 +1,8 @@
+#Updates
+v1.1: Removed extra unused strips (optimize sprites)
+v1.2: Add Atlas sprites, update version compatibilities
+
+
 Gobs,
 
 Here is a GNX mod adding a new class "Shiny Peasant" using the base sprite structure (i.e., she comes in three flavors).

@@ -1,27 +1,25 @@
-# Shiny Girls
-
+# Shiny Girls Status
 
 S.Peasant:
-1. Released v1.0
-2. Revisit gob drink touch
-3. Update spawning
-
+1. Released v1.2
+2. Revisit - Gob drink touch
+3. Bug - Missing raid portrait
 
 S.Cleric:
-1. Released v1.0
-2. Fix big c. breast sprite (for FDAU)
-3. Fix gob drink touch (mon type bug)
-4. Update spawning
-
+1. Released v1.3
+2. Revisit - Check gob drink touch (mon type bug)
+3. Bug - Missing raid portrait
 
 S.Knight
-1. Released v1.0
-
+1. Released v1.2
+2. Bug - Hand clothing sprites wonky
+3. Bug - Missing raid portrait
 
 S.Ranger
-1. Design (Choose Colors - done, Extras - 1/2)
+In Progress:
+1. Design - done
 2. Swap Colors - done
-3. Update Base Sprites
+3. Update Base Sprites - 2/3
 4. Update Clothing Sprites
 5. Update Mon Sprites
 6. Test
@@ -80,7 +78,11 @@ S.Nyx:
 
 # Mod Tools
 
-Export_Class_Sprites:
+Export_Class_Sprites - Lua script to pull all related class sprites from the UMT export set.
+Palette_Swap_Adhoc - Lua script to replace all color hex codes with another in a hard-coded set of files.
+
+TBD:
+
 1. Convert to LUA - done
 2. bug: is_special class is grabbing unrelated gob alpha/line sprites
 3. qol: make leg version an option (v1/2, v3, both sets)
